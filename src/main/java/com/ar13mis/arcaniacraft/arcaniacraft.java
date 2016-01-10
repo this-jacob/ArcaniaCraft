@@ -1,6 +1,8 @@
 package com.ar13mis.arcaniacraft;
 
 import com.ar13mis.arcaniacraft.configuration.ConfigurationHandler;
+import com.ar13mis.arcaniacraft.init.ModBlocks;
+import com.ar13mis.arcaniacraft.init.ModItems;
 import com.ar13mis.arcaniacraft.proxy.IProxy;
 import com.ar13mis.arcaniacraft.reference.Reference;
 import com.ar13mis.arcaniacraft.utility.LogHelper;
@@ -25,6 +27,9 @@ public class arcaniacraft
     public void preInit(FMLPreInitializationEvent event)
     {
         ConfigurationHandler.init(event.getSuggestedConfigurationFile());
+
+        ModItems.init();
+        ModBlocks.init();
 
         LogHelper.info("ArcaniaCraft Pre Initialization Complete.");
     }
