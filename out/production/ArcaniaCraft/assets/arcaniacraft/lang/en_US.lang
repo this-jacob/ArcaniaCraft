@@ -5,6 +5,3 @@ item.arcaniacraft:arcanegem.name=Arcane Gem
 #Block Localizations]
 #Ore Localizations
 tile.arcaniacraft:arcaneore.name=Arcane Ore
-
-#Creative Tabs
-itemgroup.arcaniacraft=Arcaniacraft

@@ -7,18 +7,12 @@ import net.minecraft.item.Item;
 
 public class CreativeTabArcaniaCraft
 {
-    public static final CreativeTabs ARC_TAB = new CreativeTabs(Reference.MOD_ID)
+    public static final CreativeTabs ARC_TAB = new CreativeTabs(Reference.MOD_ID.toLowerCase())
     {
         @Override
         public Item getTabIconItem()
         {
             return ModItems.arcanegem;
-        }
-
-        @Override
-        public String getTranslatedTabLabel()
-        {
-            return "Arcaniacraft";
         }
     };
 }

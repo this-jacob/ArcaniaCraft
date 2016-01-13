@@ -1,0 +1,16 @@
+[
+{
+  "modid": "arcaniacraft",
+  "name": "ArcaniaCraft",
+  "description": "A long lost Arcane practice.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ar13mis"],
+  "credits": "The Forge and FML guys, Pahimar, Direwolf20, Vazkii, and WayofTime",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
