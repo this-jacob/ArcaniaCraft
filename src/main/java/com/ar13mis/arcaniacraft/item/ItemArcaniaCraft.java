@@ -8,7 +8,7 @@ import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 
 public class ItemArcaniaCraft extends Item
-{
+    {
     public ItemArcaniaCraft()
     {
         super();

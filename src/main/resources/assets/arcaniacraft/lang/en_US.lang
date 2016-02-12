@@ -1,10 +1,17 @@
 #Item Localization
 #Resource Localization
 item.arcaniacraft:arcanegem.name=Arcane Gem
+item.arcaniacraft:strangeingot.name=Strange Ingot
+item.arcaniacraft:mysticalingot.name=Mystical Ingot
+item.arcaniacraft:dormantshard.name=Dormant Shard
+item.arcaniacraft:awakenedshard.name=Awakened Shard
 
 #Block Localizations]
 #Ore Localizations
 tile.arcaniacraft:arcaneore.name=Arcane Ore
+tile.arcaniacraft:strangeore.name=Strange Ore
+tile.arcaniacraft:mysticalore.name=Mystical Ore
+tile.arcaniacraft:dormantore.name=Dormant Ore
 
 #Creative Tabs
-itemgroup.arcaniacraft=Arcaniacraft
+itemGroup.arcaniacraft=Arcaniacraft

@@ -1,12 +1,13 @@
 package com.ar13mis.arcaniacraft;
 
 import com.ar13mis.arcaniacraft.configuration.ConfigurationHandler;
+import com.ar13mis.arcaniacraft.init.ModArmorMaterials;
 import com.ar13mis.arcaniacraft.init.ModBlocks;
 import com.ar13mis.arcaniacraft.init.ModItems;
+import com.ar13mis.arcaniacraft.recipes.Recipes;
 import com.ar13mis.arcaniacraft.proxy.IProxy;
 import com.ar13mis.arcaniacraft.reference.Reference;
 import com.ar13mis.arcaniacraft.utility.LogHelper;
-import cpw.mods.fml.common.FMLCommonHandler;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
@@ -37,6 +38,7 @@ public class arcaniacraft
     @Mod.EventHandler
     public void init(FMLInitializationEvent event)
     {
+        Recipes.init();
         LogHelper.info("ArcaniaCraft Initialization Complete.");
     }
 
