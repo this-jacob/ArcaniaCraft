@@ -13,7 +13,7 @@ public class ItemStrangeArmor extends ItemArmor {
 
         super(strangeArmorMaterial, 0, armorType);
 
-        setUnlocalizedName(Reference.MOD_ID + "_" + name);
+        setUnlocalizedName(Reference.MOD_ID + ":" + name);
 
         setTextureName(Reference.MOD_ID + ":" + name);
 
