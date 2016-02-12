@@ -21,6 +21,12 @@ item.arcaniacraft:mysticalchestplate.name=Mystical Chestplate
 item.arcaniacraft:mysticalleggings.name=Mystical Leggings
 item.arcaniacraft:mysticalboots.name=Mystical Boots
 
+#Arcane Armor
+item.arcaniacraft:arcanehelmet.name=Arcane Helmet
+item.arcaniacraft:arcanechestplate.name=Arcane Chestplate
+item.arcaniacraft:arcaneleggings.name=Arcane Leggings
+item.arcaniacraft:arcaneboots.name=Arcane Boots
+
 
 
 #Block Localizations]

@@ -1,33 +1,31 @@
-[19:32:36] [main/INFO]: Setting user: Player250
-[19:32:39] [Client thread/INFO]: LWJGL Version: 2.9.1
-[19:32:42] [Client thread/ERROR]: Couldn't initialize twitch stream
-[19:33:06] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ArcaniaCraft
-[19:33:08] [Sound Library Loader/INFO]: Sound engine started
-[19:33:25] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[19:33:26] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[19:33:26] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ArcaniaCraft
-[19:33:26] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[19:33:27] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[19:33:28] [Sound Library Loader/INFO]: Sound engine started
-[19:33:48] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[19:33:48] [Server thread/INFO]: Generating keypair
-[19:33:49] [Server thread/INFO]: Preparing start region for level 0
-[19:33:50] [Server thread/INFO]: Preparing spawn area: 57%
-[19:33:51] [Server thread/INFO]: Changing view distance to 8, from 10
-[19:33:52] [Server thread/INFO]: Player250[local:E:8a4f3495] logged in with entity id 9 at (-1067.7816176337708, 56.0, 534.4794653562602)
-[19:33:52] [Server thread/INFO]: Player250 joined the game
-[19:34:54] [Server thread/INFO]: [Player250: Set the time to 6000]
-[19:34:54] [Client thread/INFO]: [CHAT] Set the time to 6000
-[19:34:58] [Server thread/INFO]: [Player250: Game rule has been updated]
-[19:34:58] [Client thread/INFO]: [CHAT] Game rule has been updated
-[19:35:00] [Server thread/INFO]: Saving and pausing game...
-[19:35:00] [Server thread/INFO]: Saving chunks for level 'Display World'/Overworld
-[19:35:00] [Server thread/INFO]: Saving chunks for level 'Display World'/Nether
-[19:35:00] [Server thread/INFO]: Saving chunks for level 'Display World'/The End
-[19:35:00] [Server thread/INFO]: Stopping server
-[19:35:00] [Server thread/INFO]: Saving players
-[19:35:00] [Server thread/INFO]: Saving worlds
-[19:35:00] [Server thread/INFO]: Saving chunks for level 'Display World'/Overworld
-[19:35:00] [Server thread/INFO]: Saving chunks for level 'Display World'/Nether
-[19:35:00] [Server thread/INFO]: Saving chunks for level 'Display World'/The End
-[19:35:02] [Client thread/INFO]: Stopping!
+[19:49:44] [main/INFO]: Setting user: Player750
+[19:49:47] [Client thread/INFO]: LWJGL Version: 2.9.1
+[19:49:49] [Client thread/ERROR]: Couldn't initialize twitch stream
+[19:49:57] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ArcaniaCraft
+[19:49:59] [Sound Library Loader/INFO]: Sound engine started
+[19:50:14] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[19:50:14] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[19:50:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ArcaniaCraft
+[19:50:14] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[19:50:15] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[19:50:16] [Sound Library Loader/INFO]: Sound engine started
+[19:50:31] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[19:50:31] [Server thread/INFO]: Generating keypair
+[19:50:32] [Server thread/INFO]: Preparing start region for level 0
+[19:50:33] [Server thread/INFO]: Preparing spawn area: 92%
+[19:50:33] [Server thread/INFO]: Changing view distance to 8, from 10
+[19:50:34] [Server thread/INFO]: Player750[local:E:776d51a4] logged in with entity id 17 at (-1065.9774221490845, 56.0, 529.1337333548242)
+[19:50:34] [Server thread/INFO]: Player750 joined the game
+[19:50:38] [Server thread/INFO]: Player750 has just earned the achievement [Taking Inventory]
+[19:50:38] [Client thread/INFO]: [CHAT] Player750 has just earned the achievement [Taking Inventory]
+[19:50:43] [Server thread/INFO]: Saving and pausing game...
+[19:50:43] [Server thread/INFO]: Saving chunks for level 'Display World'/Overworld
+[19:50:43] [Server thread/INFO]: Saving chunks for level 'Display World'/Nether
+[19:50:43] [Server thread/INFO]: Saving chunks for level 'Display World'/The End
+[19:50:44] [Server thread/INFO]: Stopping server
+[19:50:44] [Server thread/INFO]: Saving players
+[19:50:44] [Server thread/INFO]: Saving worlds
+[19:50:44] [Server thread/INFO]: Saving chunks for level 'Display World'/Overworld
+[19:50:44] [Server thread/INFO]: Saving chunks for level 'Display World'/Nether
+[19:50:44] [Server thread/INFO]: Saving chunks for level 'Display World'/The End
+[19:50:45] [Client thread/INFO]: Stopping!
