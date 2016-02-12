@@ -28,11 +28,11 @@ public class ItemMysticalArmor extends ItemArmor {
         if(stack.getItem() == ModArmor.mysticalhelmet || stack.getItem() == ModArmor.mysticalchestplate || stack.getItem() == ModArmor.mysticalboots)
         {
 
-            return Reference.MOD_ID + ":models/armor/strangearmor1.png";
+            return Reference.MOD_ID + ":models/armor/mysticalarmor1.png";
 
         }else if(stack.getItem() == ModArmor.mysticalleggings){
 
-            return Reference.MOD_ID + ":models/armor/strangearmor2.png";
+            return Reference.MOD_ID + ":models/armor/mysticalarmor2.png";
 
         }else{
 

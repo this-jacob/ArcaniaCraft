@@ -70,11 +70,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ItemArcaneArmor.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ItemArcaneArmor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/armor/ItemArcaneArmor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.89768976">
+            <state vertical-scroll-proportion="0.0">
               <caret line="35" column="65" selection-start-line="35" selection-start-column="65" selection-end-line="35" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemMysticalArmor.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/armor/ItemMysticalArmor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7293729">
+              <caret line="34" column="67" selection-start-line="34" selection-start-column="67" selection-end-line="34" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -159,10 +171,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/init/ModItems.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/arcaniacraft.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/armor/ItemStrangeArmor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/armor/ItemMysticalArmor.java" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/arcaniacraft/lang/en_US.lang" />
         <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/init/ModArmor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/armor/ItemArcaneArmor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/armor/ItemMysticalArmor.java" />
       </list>
     </option>
   </component>
@@ -1311,16 +1323,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/armor/ItemMysticalArmor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="42" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/arcaniacraft.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1351,8 +1353,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/armor/ItemArcaneArmor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.89768976">
+        <state vertical-scroll-proportion="0.0">
           <caret line="35" column="65" selection-start-line="35" selection-start-column="65" selection-end-line="35" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/armor/ItemMysticalArmor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7293729">
+          <caret line="34" column="67" selection-start-line="34" selection-start-column="67" selection-end-line="34" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

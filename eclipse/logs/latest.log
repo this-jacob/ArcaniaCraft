@@ -1,31 +1,30 @@
-[19:49:44] [main/INFO]: Setting user: Player750
-[19:49:47] [Client thread/INFO]: LWJGL Version: 2.9.1
-[19:49:49] [Client thread/ERROR]: Couldn't initialize twitch stream
-[19:49:57] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ArcaniaCraft
-[19:49:59] [Sound Library Loader/INFO]: Sound engine started
-[19:50:14] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[19:50:14] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[19:50:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ArcaniaCraft
-[19:50:14] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[19:50:15] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[19:50:16] [Sound Library Loader/INFO]: Sound engine started
-[19:50:31] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[19:50:31] [Server thread/INFO]: Generating keypair
-[19:50:32] [Server thread/INFO]: Preparing start region for level 0
-[19:50:33] [Server thread/INFO]: Preparing spawn area: 92%
-[19:50:33] [Server thread/INFO]: Changing view distance to 8, from 10
-[19:50:34] [Server thread/INFO]: Player750[local:E:776d51a4] logged in with entity id 17 at (-1065.9774221490845, 56.0, 529.1337333548242)
-[19:50:34] [Server thread/INFO]: Player750 joined the game
-[19:50:38] [Server thread/INFO]: Player750 has just earned the achievement [Taking Inventory]
-[19:50:38] [Client thread/INFO]: [CHAT] Player750 has just earned the achievement [Taking Inventory]
-[19:50:43] [Server thread/INFO]: Saving and pausing game...
-[19:50:43] [Server thread/INFO]: Saving chunks for level 'Display World'/Overworld
-[19:50:43] [Server thread/INFO]: Saving chunks for level 'Display World'/Nether
-[19:50:43] [Server thread/INFO]: Saving chunks for level 'Display World'/The End
-[19:50:44] [Server thread/INFO]: Stopping server
-[19:50:44] [Server thread/INFO]: Saving players
-[19:50:44] [Server thread/INFO]: Saving worlds
-[19:50:44] [Server thread/INFO]: Saving chunks for level 'Display World'/Overworld
-[19:50:44] [Server thread/INFO]: Saving chunks for level 'Display World'/Nether
-[19:50:44] [Server thread/INFO]: Saving chunks for level 'Display World'/The End
-[19:50:45] [Client thread/INFO]: Stopping!
+[19:51:52] [main/INFO]: Setting user: Player281
+[19:51:56] [Client thread/INFO]: LWJGL Version: 2.9.1
+[19:51:59] [Client thread/ERROR]: Couldn't initialize twitch stream
+[19:52:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ArcaniaCraft
+[19:52:11] [Sound Library Loader/INFO]: Sound engine started
+[19:52:24] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[19:52:25] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[19:52:25] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ArcaniaCraft
+[19:52:25] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[19:52:26] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[19:52:27] [Sound Library Loader/INFO]: Sound engine started
+[19:52:33] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[19:52:33] [Server thread/INFO]: Generating keypair
+[19:52:34] [Server thread/INFO]: Preparing start region for level 0
+[19:52:35] [Server thread/INFO]: Changing view distance to 8, from 10
+[19:52:36] [Server thread/INFO]: Player281[local:E:b91d6704] logged in with entity id 17 at (-1065.9774221490845, 56.0, 529.1337333548242)
+[19:52:36] [Server thread/INFO]: Player281 joined the game
+[19:52:42] [Server thread/INFO]: Player281 has just earned the achievement [Taking Inventory]
+[19:52:42] [Client thread/INFO]: [CHAT] Player281 has just earned the achievement [Taking Inventory]
+[19:52:55] [Server thread/INFO]: Saving and pausing game...
+[19:52:55] [Server thread/INFO]: Saving chunks for level 'Display World'/Overworld
+[19:52:55] [Server thread/INFO]: Saving chunks for level 'Display World'/Nether
+[19:52:55] [Server thread/INFO]: Saving chunks for level 'Display World'/The End
+[19:52:56] [Server thread/INFO]: Stopping server
+[19:52:56] [Server thread/INFO]: Saving players
+[19:52:56] [Server thread/INFO]: Saving worlds
+[19:52:56] [Server thread/INFO]: Saving chunks for level 'Display World'/Overworld
+[19:52:56] [Server thread/INFO]: Saving chunks for level 'Display World'/Nether
+[19:52:56] [Server thread/INFO]: Saving chunks for level 'Display World'/The End
+[19:52:57] [Client thread/INFO]: Stopping!
