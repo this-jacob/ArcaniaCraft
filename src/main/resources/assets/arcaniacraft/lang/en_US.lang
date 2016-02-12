@@ -6,11 +6,22 @@ item.arcaniacraft:mysticalingot.name=Mystical Ingot
 item.arcaniacraft:dormantshard.name=Dormant Shard
 item.arcaniacraft:awakenedshard.name=Awakened Shard
 
+
+
 #Armor Localization
+#Strange Armor
 item.arcaniacraft:strangehelmet.name=Strange Helmet
 item.arcaniacraft:strangechestplate.name=Strange Chestplate
 item.arcaniacraft:strangeleggings.name=Strange Leggings
 item.arcaniacraft:strangeboots.name=Strange Boots
+
+#Mystical Armor
+item.arcaniacraft:mysticalhelmet.name=Mystical Helmet
+item.arcaniacraft:mysticalchestplate.name=Mystical Chestplate
+item.arcaniacraft:mysticalleggings.name=Mystical Leggings
+item.arcaniacraft:mysticalboots.name=Mystical Boots
+
+
 
 #Block Localizations]
 #Ore Localizations
@@ -18,6 +29,8 @@ tile.arcaniacraft:arcaneore.name=Arcane Ore
 tile.arcaniacraft:strangeore.name=Strange Ore
 tile.arcaniacraft:mysticalore.name=Mystical Ore
 tile.arcaniacraft:dormantore.name=Dormant Ore
+
+
 
 #Creative Tabs
 itemGroup.arcaniacraft=Arcaniacraft
