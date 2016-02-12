@@ -1,6 +1,7 @@
 package com.ar13mis.arcaniacraft.init;
 
 import com.ar13mis.arcaniacraft.item.armor.ItemStrangeArmor;
+import cpw.mods.fml.common.registry.GameRegistry;
 
 public class ModArmor
 {
@@ -12,6 +13,9 @@ public class ModArmor
 
     public static void init()
     {
-
+        GameRegistry.registerItem(strangehelmet, "strangehelmet");
+        GameRegistry.registerItem(strangechestplate, "strangechestplate");
+        GameRegistry.registerItem(strangeleggings, "strangeleggings");
+        GameRegistry.registerItem(strangeboots, "strangeboots");
     }
 }

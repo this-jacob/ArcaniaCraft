@@ -1,5 +1,6 @@
 package com.ar13mis.arcaniacraft.item.armor;
 
+import com.ar13mis.arcaniacraft.creativetab.CreativeTabArcaniaCraft;
 import com.ar13mis.arcaniacraft.init.ModArmor;
 import com.ar13mis.arcaniacraft.reference.Reference;
 import net.minecraft.entity.Entity;
@@ -15,6 +16,8 @@ public class ItemStrangeArmor extends ItemArmor {
         setUnlocalizedName(Reference.MOD_ID + "_" + name);
 
         setTextureName(Reference.MOD_ID + ":" + name);
+
+        setCreativeTab(CreativeTabArcaniaCraft.ARC_TAB);
 
     }
 
