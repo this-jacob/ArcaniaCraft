@@ -72,21 +72,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strangearmor.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/recipes/Armor/strangearmor.java">
+      <file leaf-file-name="Recipes.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/recipes/Recipes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.16831683">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.4768977">
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Recipes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/recipes/Recipes.java">
+      <file leaf-file-name="AwakenedArmor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/recipes/Armor/AwakenedArmor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -137,7 +139,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/block/BlockDormantOre.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/init/ModBlocks.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/init/Recipes.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/recipes/Recipes.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/init/ModToolMaterials.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/ItemArcaniaCraft.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/armor/ItemArcaniaArmor.java" />
@@ -153,6 +154,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/init/ModItems.java" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/arcaniacraft/lang/en_US.lang" />
         <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/recipes/Armor/strangearmor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/recipes/Armor/MysticalArmor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/recipes/Armor/ArcaneArmor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/recipes/Armor/DormantArmor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/recipes/Armor/AwakenedArmor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/recipes/Recipes.java" />
       </list>
     </option>
   </component>
@@ -873,37 +879,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/block/BlockArcaniaCraft.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="75" selection-start-line="36" selection-start-column="75" selection-end-line="36" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/block/BlockArcaneOre.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/arcaniacraft.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="73" selection-start-line="24" selection-start-column="73" selection-end-line="24" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/configuration/ConfigurationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/reference/Reference.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1255,6 +1230,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/recipes/Armor/strangearmor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="0" selection-start-line="8" selection-start-column="26" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/recipes/Armor/MysticalArmor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="0" selection-start-line="8" selection-start-column="27" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/recipes/Armor/ArcaneArmor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="53" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/arcaniacraft.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1265,21 +1270,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/recipes/Recipes.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/recipes/Armor/DormantArmor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.78547853">
+          <caret line="34" column="56" selection-start-line="34" selection-start-column="56" selection-end-line="34" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/recipes/Armor/strangearmor.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/recipes/Armor/AwakenedArmor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16831683">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/recipes/Recipes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4768977">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
