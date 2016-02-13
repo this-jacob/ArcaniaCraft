@@ -1,9 +1,6 @@
 package com.ar13mis.arcaniacraft.init;
 
-import com.ar13mis.arcaniacraft.item.armor.ItemArcaneArmor;
-import com.ar13mis.arcaniacraft.item.armor.ItemDormantArmor;
-import com.ar13mis.arcaniacraft.item.armor.ItemMysticalArmor;
-import com.ar13mis.arcaniacraft.item.armor.ItemStrangeArmor;
+import com.ar13mis.arcaniacraft.item.armor.*;
 import cpw.mods.fml.common.registry.GameRegistry;
 
 public class ModArmor
@@ -33,6 +30,12 @@ public class ModArmor
     public static ItemDormantArmor dormantleggings = new ItemDormantArmor(ModArmorMaterials.dormantArmorMaterial, 2, "dormantleggings");
     public static ItemDormantArmor dormantboots = new ItemDormantArmor(ModArmorMaterials.dormantArmorMaterial, 3, "dormantboots");
 
+    //Awakened Armor Creation
+    public static ItemAwakenedArmor awakenedhelmet = new ItemAwakenedArmor(ModArmorMaterials.awakenedArmorMaterial, 0, "awakenedhelmet");
+    public static ItemAwakenedArmor awakenedchestplate = new ItemAwakenedArmor(ModArmorMaterials.awakenedArmorMaterial, 1, "awakenedchestplate");
+    public static ItemAwakenedArmor awakenedleggings = new ItemAwakenedArmor(ModArmorMaterials.awakenedArmorMaterial, 2, "awakenedleggings");
+    public static ItemAwakenedArmor awakenedboots = new ItemAwakenedArmor(ModArmorMaterials.awakenedArmorMaterial, 3, "awakenedboots");
+
     public static void init()
     {
         //Strange Armor Registration
@@ -58,5 +61,11 @@ public class ModArmor
         GameRegistry.registerItem(dormantchestplate, "dormantchestplate");
         GameRegistry.registerItem(dormantleggings, "dormantleggings");
         GameRegistry.registerItem(dormantboots, "dormantboots");
+
+        //Awakened Armor Registration
+        GameRegistry.registerItem(awakenedhelmet, "awakenedhelmet");
+        GameRegistry.registerItem(awakenedchestplate, "awakenedchestplate");
+        GameRegistry.registerItem(awakenedleggings, "awakenedleggings");
+        GameRegistry.registerItem(awakenedboots, "awakenedboots");
     }
 }

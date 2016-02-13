@@ -33,6 +33,12 @@ item.arcaniacraft:dormantchestplate.name=Dormant Chestplate
 item.arcaniacraft:dormantleggings.name=Dormant Leggings
 item.arcaniacraft:dormantboots.name=Dormant Boots
 
+#Awakened Armor
+item.arcaniacraft:awakenedhelmet.name=Awakened Helmet
+item.arcaniacraft:awakenedchestplate.name=Awakened Chestplate
+item.arcaniacraft:awakenedleggings.name=Awakened Leggings
+item.arcaniacraft:awakenedboots.name=Awakened Boots
+
 
 
 #Block Localizations]

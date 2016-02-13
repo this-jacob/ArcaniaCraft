@@ -23,5 +23,7 @@ public class ModItems
         GameRegistry.registerItem(dormantshard, "dormantshard");
         GameRegistry.registerItem(awakenedshard, "awakenedshard");
 
+        ModArmor.init();
+
     }
 }
