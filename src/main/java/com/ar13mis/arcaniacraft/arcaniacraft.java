@@ -32,19 +32,19 @@ public class arcaniacraft
         ModItems.init();
         ModBlocks.init();
 
-        LogHelper.info("ArcaniaCraft Pre Initialization Complete.");
+        LogHelper.info("ArcaniaCraft Pre Initialization Complete!");
     }
 
     @Mod.EventHandler
     public void init(FMLInitializationEvent event)
     {
         Recipes.init();
-        LogHelper.info("ArcaniaCraft Initialization Complete.");
+        LogHelper.info("ArcaniaCraft Initialization Complete!");
     }
 
     @Mod.EventHandler
     public void postInit(FMLPostInitializationEvent event)
     {
-        LogHelper.info("ArcaniaCraft Post Initialization Complete.");
+        LogHelper.info("ArcaniaCraft Post Initialization Complete!");
     }
 }
