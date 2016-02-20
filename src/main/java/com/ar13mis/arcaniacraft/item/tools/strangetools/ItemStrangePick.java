@@ -2,7 +2,6 @@ package com.ar13mis.arcaniacraft.item.tools.strangetools;
 
 import com.ar13mis.arcaniacraft.creativetab.CreativeTabArcaniaCraft;
 import com.ar13mis.arcaniacraft.reference.Reference;
-import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemPickaxe;
 
 public class ItemStrangePick extends ItemPickaxe

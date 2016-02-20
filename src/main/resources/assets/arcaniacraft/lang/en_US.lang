@@ -8,6 +8,8 @@ item.arcaniacraft:awakenedshard.name=Awakened Shard
 
 
 
+
+
 #Armor Localization
 #Strange Armor
 item.arcaniacraft:strangehelmet.name=Strange Helmet
@@ -41,12 +43,28 @@ item.arcaniacraft:awakenedboots.name=Awakened Boots
 
 
 
+
+
+#Tool Localization
+#Strange Tools
+item.arcaniacraft:strangepick.name=Strange Pick
+item.arcaniacraft:strangeaxe.name=Strange Axe
+item.arcaniacraft:strangeshovel.name=Strange Shovel
+item.arcaniacraft:strangehoe.name=Strange Hoe
+item.arcaniacraft:strangesword.name=Strange Sword
+
+
+
+
+
 #Block Localizations]
 #Ore Localizations
 tile.arcaniacraft:arcaneore.name=Arcane Ore
 tile.arcaniacraft:strangeore.name=Strange Ore
 tile.arcaniacraft:mysticalore.name=Mystical Ore
 tile.arcaniacraft:dormantore.name=Dormant Ore
+
+
 
 
 

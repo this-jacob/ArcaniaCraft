@@ -24,6 +24,6 @@ public class ModItems
         GameRegistry.registerItem(awakenedshard, "awakenedshard");
 
         ModArmor.init();
-
+        ModTools.init();
     }
 }
