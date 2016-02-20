@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57316236-f9f8-4b8d-b076-552c6a3d13b2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/mysticaltools/ItemMysticalAxe.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/mysticaltools/ItemMysticalHoe.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/mysticaltools/ItemMysticalPick.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/mysticaltools/ItemMysticalShovel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/mysticaltools/ItemMysticalSword.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/mysticaltools/ItemMysticalTools.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArcaniaCraft/assets/arcaniacraft/textures/items/arcanepickaxe.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArcaniaCraft/assets/arcaniacraft/textures/items/awakenedpickaxe.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArcaniaCraft/assets/arcaniacraft/textures/items/dormantpickaxe.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArcaniaCraft/assets/arcaniacraft/textures/items/mysticalpickaxe.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArcaniaCraft/assets/arcaniacraft/textures/items/strangepickaxe.png" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/arcanetools/ItemArcaneAxe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/arcanetools/ItemArcaneHoe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/arcanetools/ItemArcanePick.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/arcanetools/ItemArcaneShovel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/arcanetools/ItemArcaneSword.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/arcanetools/ItemArcaneTools.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Display World/DIM-1/data/villages.dat" afterPath="$PROJECT_DIR$/eclipse/saves/Display World/DIM-1/data/villages.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Display World/DIM1/data/villages.dat" afterPath="$PROJECT_DIR$/eclipse/saves/Display World/DIM1/data/villages.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Display World/data/villages.dat" afterPath="$PROJECT_DIR$/eclipse/saves/Display World/data/villages.dat" />
@@ -94,31 +89,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="en_US.lang" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/assets/arcaniacraft/lang/en_US.lang">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.61383927">
+              <caret line="64" column="29" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ModTools.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/init/ModTools.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="en_US.lang" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/assets/arcaniacraft/lang/en_US.lang">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.94866073">
-              <caret line="60" column="51" selection-start-line="60" selection-start-column="51" selection-end-line="60" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ItemMysticalTools.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/mysticaltools/ItemMysticalTools.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -145,12 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/proxy/ClientProxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/proxy/CommonProxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/reference/Reference.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/configuration/ConfigurationHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/utility/LogHelper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/block/BlockArcaniaCraft.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/ItemArcaneGem.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/block/BlockArcaneOre.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/creativetab/CreativeTabArcaniaCraft.java" />
@@ -189,12 +168,18 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/strangetools/ItemStrangeTools.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/init/ModItems.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/mysticaltools/ItemMysticalPick.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/init/ModTools.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/mysticaltools/ItemMysticalAxe.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/mysticaltools/ItemMysticalShovel.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/mysticaltools/ItemMysticalHoe.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/mysticaltools/ItemMysticalSword.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/mysticaltools/ItemMysticalTools.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/init/ModTools.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/arcanetools/ItemArcanePick.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/arcanetools/ItemArcaneAxe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/arcanetools/ItemArcaneShovel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/arcanetools/ItemArcaneHoe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/arcanetools/ItemArcaneSword.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/arcanetools/ItemArcaneTools.java" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/arcaniacraft/lang/en_US.lang" />
       </list>
     </option>
@@ -396,7 +381,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mysticaltools" />
+              <option name="myItemId" value="arcanetools" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -901,7 +886,13 @@
       <option name="project" value="LOCAL" />
       <updated>1455940024517</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Implemented Mystical Tools">
+      <created>1455993031176</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1455993031176</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -948,7 +939,8 @@
     <MESSAGE value="Added Tools Item Structure" />
     <MESSAGE value="Created Strange Tools [UNIMPLEMENTED]" />
     <MESSAGE value="Implemented Strange Tools&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented Strange Tools&#10;" />
+    <MESSAGE value="Implemented Mystical Tools" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented Mystical Tools" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -962,46 +954,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/block/BlockArcaniaCraft.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6838843">
-          <caret line="36" column="75" selection-start-line="36" selection-start-column="75" selection-end-line="36" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/arcaniacraft/textures/items/mysticalingot.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/ItemStrangeIngot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13821138">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/ItemMysticalIngot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/ItemAwakenedShard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/block/BlockStrangeOre.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/block/BlockMysticalOre.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.18518518">
@@ -1142,13 +1094,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/arcaniacraft.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2720588">
-          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/recipes/Armor/AwakenedArmor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6838235">
@@ -1250,16 +1195,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/init/ModItems.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/strangetools/ItemStrangeTools.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1310,8 +1245,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/mysticaltools/ItemMysticalTools.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.4632353">
           <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/arcanetools/ItemArcaneSword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2867647">
+          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/arcanetools/ItemArcaneHoe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2867647">
+          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/arcanetools/ItemArcaneShovel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30882353">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/arcanetools/ItemArcaneAxe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2867647">
+          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/arcanetools/ItemArcanePick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22058824">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/init/ModItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5294118">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/item/tools/arcanetools/ItemArcaneTools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1764706">
+          <caret line="8" column="54" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/arcaniacraft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5514706">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -1319,15 +1320,15 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ar13mis/arcaniacraft/init/ModTools.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/assets/arcaniacraft/lang/en_US.lang">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.94866073">
-          <caret line="60" column="51" selection-start-line="60" selection-start-column="51" selection-end-line="60" selection-end-column="51" />
+        <state vertical-scroll-proportion="0.61383927">
+          <caret line="64" column="29" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="29" />
           <folding />
         </state>
       </provider>

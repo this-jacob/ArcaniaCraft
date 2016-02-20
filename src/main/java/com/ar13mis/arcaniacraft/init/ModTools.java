@@ -1,5 +1,6 @@
 package com.ar13mis.arcaniacraft.init;
 
+import com.ar13mis.arcaniacraft.item.tools.arcanetools.ItemArcaneTools;
 import com.ar13mis.arcaniacraft.item.tools.mysticaltools.ItemMysticalTools;
 import com.ar13mis.arcaniacraft.item.tools.strangetools.ItemStrangeTools;
 
@@ -9,5 +10,6 @@ public class ModTools
     {
         ItemStrangeTools.init();
         ItemMysticalTools.init();
+        ItemArcaneTools.init();
     }
 }

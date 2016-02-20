@@ -60,6 +60,13 @@ item.arcaniacraft:mysticalshovel.name=Mystical Shovel
 item.arcaniacraft:mysticalhoe.name=Mystical Hoe
 item.arcaniacraft:mysticalsword.name=Mystical Sword
 
+#Arcane Tools
+item.arcaniacraft:arcanepick.name=Arcane Pick
+item.arcaniacraft:arcaneaxe.name=Arcane Axe
+item.arcaniacraft:arcaneshovel.name=Arcane Shovel
+item.arcaniacraft:arcanehoe.name=Arcane Hoe
+item.arcaniacraft:arcanesword.name=Arcane Sword
+
 
 
 
