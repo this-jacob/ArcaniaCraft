@@ -67,6 +67,20 @@ item.arcaniacraft:arcaneshovel.name=Arcane Shovel
 item.arcaniacraft:arcanehoe.name=Arcane Hoe
 item.arcaniacraft:arcanesword.name=Arcane Sword
 
+#Dormant Tools
+item.arcaniacraft:dormantpick.name=Dormant Pick
+item.arcaniacraft:dormantaxe.name=Dormant Axe
+item.arcaniacraft:dormantshovel.name=Dormant Shovel
+item.arcaniacraft:dormanthoe.name=Dormant Hoe
+item.arcaniacraft:dormantsword.name=Dormant Sword
+
+#Awakened Tools
+item.arcaniacraft:awakenedpick.name=Awakened Pick
+item.arcaniacraft:awakenedaxe.name=Awakened Axe
+item.arcaniacraft:awakenedshovel.name=Awakened Shovel
+item.arcaniacraft:awakenedhoe.name=Awakened Hoe
+item.arcaniacraft:awakenedsword.name=Awakened Sword
+
 
 
 
