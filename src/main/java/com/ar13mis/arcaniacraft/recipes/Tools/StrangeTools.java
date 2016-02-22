@@ -1,7 +1,6 @@
 package com.ar13mis.arcaniacraft.recipes.Tools;
 
 import com.ar13mis.arcaniacraft.init.ModItems;
-import com.ar13mis.arcaniacraft.item.ItemStrangeIngot;
 import com.ar13mis.arcaniacraft.item.tools.strangetools.ItemStrangeTools;
 import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.init.Items;

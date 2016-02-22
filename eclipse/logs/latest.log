@@ -1,20 +1,20 @@
-[15:51:24] [main/INFO]: Setting user: Player534
-[15:51:26] [Client thread/INFO]: LWJGL Version: 2.9.1
-[15:51:34] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ArcaniaCraft
-[15:51:35] [Sound Library Loader/INFO]: Sound engine started
-[15:51:36] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[15:51:37] [Client thread/INFO]: Created: 512x256 textures/items-atlas
-[15:51:37] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ArcaniaCraft
-[15:51:37] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[15:51:38] [Client thread/INFO]: Created: 512x256 textures/items-atlas
-[15:51:38] [Sound Library Loader/INFO]: Sound engine started
-[15:55:44] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[15:55:45] [Server thread/INFO]: Generating keypair
-[15:55:45] [Server thread/INFO]: Preparing start region for level 0
-[15:55:46] [Server thread/INFO]: Changing view distance to 8, from 10
-[15:55:47] [Server thread/INFO]: Player534[local:E:eb5a5870] logged in with entity id 51 at (-1061.4672573035323, 56.0, 523.5327419381892)
-[15:55:47] [Server thread/INFO]: Player534 joined the game
-[15:55:49] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@4fe2cb28[id=02c2b441-e501-39de-91db-ef2392b0ea91,name=Player534,properties={},legacy=false]
+[16:44:59] [main/INFO]: Setting user: Player985
+[16:45:00] [Client thread/INFO]: LWJGL Version: 2.9.1
+[16:45:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ArcaniaCraft
+[16:45:10] [Sound Library Loader/INFO]: Sound engine started
+[16:45:11] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[16:45:11] [Client thread/INFO]: Created: 512x256 textures/items-atlas
+[16:45:11] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ArcaniaCraft
+[16:45:12] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[16:45:12] [Client thread/INFO]: Created: 512x256 textures/items-atlas
+[16:45:12] [Sound Library Loader/INFO]: Sound engine started
+[16:45:19] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[16:45:19] [Server thread/INFO]: Generating keypair
+[16:45:20] [Server thread/INFO]: Preparing start region for level 0
+[16:45:20] [Server thread/INFO]: Changing view distance to 8, from 10
+[16:45:21] [Server thread/INFO]: Player985[local:E:1177941b] logged in with entity id 50 at (-1053.5929580560123, 56.0, 528.5704819085471)
+[16:45:21] [Server thread/INFO]: Player985 joined the game
+[16:45:22] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@5aac8b1b[id=d1587dea-b047-3ee8-b46a-f3d599824159,name=Player985,properties={},legacy=false]
 com.mojang.authlib.exceptions.AuthenticationUnavailableException: Cannot contact authentication server
 	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:71) ~[YggdrasilAuthenticationService.class:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:158) [YggdrasilMinecraftSessionService.class:?]
@@ -57,20 +57,16 @@ Caused by: java.net.SocketException: Connection reset
 	at com.mojang.authlib.HttpAuthenticationService.performGetRequest(HttpAuthenticationService.java:126) ~[HttpAuthenticationService.class:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:54) ~[YggdrasilAuthenticationService.class:?]
 	... 18 more
-[15:55:52] [Server thread/INFO]: [Player534: Cleared the inventory of Player534, removing 23 items]
-[15:55:52] [Client thread/INFO]: [CHAT] Cleared the inventory of Player534, removing 23 items
-[15:57:21] [Server thread/INFO]: Saving and pausing game...
-[15:57:21] [Server thread/INFO]: Saving chunks for level 'Display World'/Overworld
-[15:57:21] [Server thread/INFO]: Saving chunks for level 'Display World'/Nether
-[15:57:21] [Server thread/INFO]: Saving chunks for level 'Display World'/The End
-[15:57:28] [Server thread/INFO]: Saving and pausing game...
-[15:57:28] [Server thread/INFO]: Saving chunks for level 'Display World'/Overworld
-[15:57:28] [Server thread/INFO]: Saving chunks for level 'Display World'/Nether
-[15:57:28] [Server thread/INFO]: Saving chunks for level 'Display World'/The End
-[15:57:29] [Server thread/INFO]: Stopping server
-[15:57:29] [Server thread/INFO]: Saving players
-[15:57:29] [Server thread/INFO]: Saving worlds
-[15:57:29] [Server thread/INFO]: Saving chunks for level 'Display World'/Overworld
-[15:57:29] [Server thread/INFO]: Saving chunks for level 'Display World'/Nether
-[15:57:29] [Server thread/INFO]: Saving chunks for level 'Display World'/The End
-[15:57:30] [Client thread/INFO]: Stopping!
+[16:45:24] [Server thread/INFO]: Player985 has just earned the achievement [Taking Inventory]
+[16:45:24] [Client thread/INFO]: [CHAT] Player985 has just earned the achievement [Taking Inventory]
+[16:47:42] [Server thread/INFO]: Saving and pausing game...
+[16:47:42] [Server thread/INFO]: Saving chunks for level 'Display World'/Overworld
+[16:47:42] [Server thread/INFO]: Saving chunks for level 'Display World'/Nether
+[16:47:42] [Server thread/INFO]: Saving chunks for level 'Display World'/The End
+[16:47:42] [Server thread/INFO]: Stopping server
+[16:47:42] [Server thread/INFO]: Saving players
+[16:47:42] [Server thread/INFO]: Saving worlds
+[16:47:42] [Server thread/INFO]: Saving chunks for level 'Display World'/Overworld
+[16:47:42] [Server thread/INFO]: Saving chunks for level 'Display World'/Nether
+[16:47:42] [Server thread/INFO]: Saving chunks for level 'Display World'/The End
+[16:47:43] [Client thread/INFO]: Stopping!

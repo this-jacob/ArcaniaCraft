@@ -5,5 +5,6 @@ public class ArcaniacraftTools
     public static void init()
     {
         StrangeTools.init();
+        MysticalTools.init();
     }
 }
