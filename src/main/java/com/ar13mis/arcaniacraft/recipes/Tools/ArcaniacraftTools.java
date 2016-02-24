@@ -6,5 +6,6 @@ public class ArcaniacraftTools
     {
         StrangeTools.init();
         MysticalTools.init();
+        ArcaneTools.init();
     }
 }
