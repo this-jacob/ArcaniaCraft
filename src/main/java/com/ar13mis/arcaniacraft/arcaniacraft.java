@@ -2,6 +2,7 @@ package com.ar13mis.arcaniacraft;
 
 import com.ar13mis.arcaniacraft.configuration.ConfigurationHandler;
 import com.ar13mis.arcaniacraft.init.ModBlocks;
+import com.ar13mis.arcaniacraft.init.ModEventHandlers;
 import com.ar13mis.arcaniacraft.init.ModItems;
 import com.ar13mis.arcaniacraft.recipes.Recipes;
 import com.ar13mis.arcaniacraft.proxy.IProxy;
@@ -30,6 +31,7 @@ public class arcaniacraft
 
         ModItems.init();
         ModBlocks.init();
+        ModEventHandlers.init();
 
         LogHelper.info("ArcaniaCraft Pre Initialization Complete!");
     }
